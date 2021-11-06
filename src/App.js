@@ -89,5 +89,3 @@ const App = () => {
 };
 
 export default App;
-
-// npm i -D tailwindcss@latest postcss postcss-cli autoprefixer concurrently @tailwindcss/jit
